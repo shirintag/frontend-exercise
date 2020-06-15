@@ -11,9 +11,9 @@ A Single Page Application with:
 - Implemented the rating functionality without using a third-party library.
 - A NodeJS and Express Back-End server.
 - A Front-End built in React and Webpack.
-- Jest tests.
+- Jest tests.  
 
-
+https://recipes-gallery.herokuapp.com/
 ## Installation
 
 Install dependencies  
